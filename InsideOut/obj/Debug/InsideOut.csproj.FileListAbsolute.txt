@@ -1,0 +1,2 @@
+C:\Programming\C# Programs\Personal\InsideOut\InsideOut\bin\Debug\InsideOut.exe.config
+C:\Programming\Git_Stuff\InsideOut\InsideOut\bin\Debug\InsideOut.exe.config
